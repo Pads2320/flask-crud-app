@@ -3,11 +3,11 @@
 A simple Flask app with user management (Create, Read, Update, Delete) featuring Bootstrap styling and image upload support.
 
 Group Members
-Padilla, Justin Mark G.
-Cruz, Llord Andrei R.
-Santiago, Stephen Ivan F.
-Fadrigalan, Vonn Ryan Albert
-Mendoza, Jefferson V.
+- Padilla, Justin Mark G.
+- Cruz, Llord Andrei R.
+- Santiago, Stephen Ivan F.
+- Fadrigalan, Vonn Ryan Albert
+- Mendoza, Jefferson V.
 
 ## 🔧 Features
 
